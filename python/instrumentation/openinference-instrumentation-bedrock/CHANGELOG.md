@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.61](https://github.com/Arize-ai/openinference/compare/python-openinference-instrumentation-bedrock-v0.1.60...python-openinference-instrumentation-bedrock-v0.1.61) (2026-10-19)
+
+
+### Bug Fixes
+
+* **bedrock:** record Converse model request fields in invocation parameters ([#3984](https://github.com/Arize-ai/openinference/issues/3984)) ([94f907a](https://github.com/Arize-ai/openinference/commit/94f907a57022f97d1153ae206ae7e3b2229ed854))
+* **bedrock:** redact Anthropic system prompt fields ([#3950](https://github.com/Arize-ai/openinference/issues/3950)) ([7da3360](https://github.com/Arize-ai/openinference/commit/7da3360c377afd8d23830b05b21c3164703705c1))
+
 ## [0.1.60](https://github.com/Arize-ai/openinference/compare/python-openinference-instrumentation-bedrock-v0.1.59...python-openinference-instrumentation-bedrock-v0.1.60) (2026-10-10)
 
 
